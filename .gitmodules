@@ -1,0 +1,3 @@
+[submodule "devel-jupyter-robotics"]
+	path = devel-jupyter-robotics
+	url = https://github.com/akinami3/devel-jupyter-robotics.git
